@@ -1,0 +1,11 @@
+{
+  "ConditionExampleModule#ConditionExample": "0xeFd77cf8A169637164dFa22C4A71c41898B88B2f",
+  "AssertExampleModule#AssertExample": "0x094a4852F618C1c95ADfb79C49591Ca50F54A643",
+  "LocalVariableModule#LocalVariableExample": "0x1a1cf928c6F1b5884b90FA98373FdeCe428F439c",
+  "BasicModifierModule#BasicModifier": "0xA729691869EF360dD27a04831584Ec3EBEA01ED5",
+  "EventExampleModule#EventExample": "0xb4D49d91fE7b4AE3fd5A8cCDBFDb864C911eB564",
+  "ConditionStatementModule#ConditionStatement": "0x69a5c8F545E1C5c669B0dbFD8ee804cFECEb5cB9",
+  "SendExampleModule#SendExample": "0x92E090Bb0237876661Ae3A2d9130df6504b8cB98",
+  "ParameterizedModifierModule#ParameterizedModifier": "0xBeE1D9A59f4af0722d011ddDfDE4e7ed2966a709",
+  "StateMutabilityExampleModule#StateMutabilityExample": "0x4CE8b44C4DD57a4369121c44F37Ee474a8c6B00d"
+}
